@@ -2,7 +2,7 @@
 
 This repo consists multiple examples of Linear Regression
 
-Example 1 :
+Example 1 Age and Religious observance :
 (source - www.statcrunch.com)
 
 Introduction: 
