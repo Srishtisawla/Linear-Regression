@@ -3,7 +3,7 @@
 This repo consists multiple examples of Linear Regression
 
 Example 1 :
-(source - www.statcrunch.com
+(source - www.statcrunch.com)
 
 Introduction: 
 
